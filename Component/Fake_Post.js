@@ -1,0 +1,58 @@
+export default [
+  {
+    id: 1,
+    username: 'علی علی زاده',
+    avatar: require('../assets/images/avatar.png'),
+    post: require('../assets/images/post1.jpg'),
+    like: false,
+  },
+  {
+    id: 2,
+    username: 'حامد زیدآبادی',
+    avatar: require('../assets/images/avatar2.png'),
+    post: require('../assets/images/post2.jpg'),
+    like: false,
+  },
+  {
+    id: 3,
+    username: 'محمد محمدی',
+    avatar: require('../assets/images/avatar4.png'),
+    post: require('../assets/images/post3.jpg'),
+    like: false,
+  },
+  {
+    id: 4,
+    username: 'حسین حسینی',
+    avatar: require('../assets/images/avatar6.png'),
+    post: require('../assets/images/post4.jpg'),
+    like: false,
+  },
+  {
+    id: 5,
+    username: 'مریم مریمی',
+    avatar: require('../assets/images/avatar5.png'),
+    post: require('../assets/images/post5.jpg'),
+    like: false,
+  },
+  {
+    id: 6,
+    username: 'حسین علینقی',
+    avatar: require('../assets/images/avatar3.png'),
+    post: require('../assets/images/post6.jpg'),
+    like: false,
+  },
+  {
+    id: 7,
+    username: 'محسن حسینی',
+    avatar: require('../assets/images/avatar8.png'),
+    post: require('../assets/images/post7.jpg'),
+    like: false,
+  },
+  {
+    id: 8,
+    username: 'یاسین محرمی',
+    avatar: require('../assets/images/avatar7.png'),
+    post: require('../assets/images/post8.jpg'),
+    like: false,
+  },
+];
